@@ -1,1 +1,1 @@
-# Malaria_detection_in_Human
+# Malaria detection in Human
